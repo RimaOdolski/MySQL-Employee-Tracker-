@@ -1,21 +1,22 @@
 {
-  "name": "package.json",
+  "name": "mysql-employee-tracker-",
   "version": "1.0.0",
-  "description": "",
+  "description": "MySQL employee tracker ",
   "main": "index.js",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RimaOdolski/MySQL-Employee-Tracker-.git"
   },
-  "author": "",
+  "author": "Rima Odolski",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RimaOdolski/MySQL-Employee-Tracker-/issues"
