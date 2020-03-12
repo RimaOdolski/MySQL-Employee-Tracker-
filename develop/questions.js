@@ -1,4 +1,4 @@
-const actions = [
+const questions = [
 
     {
         type: "list",
@@ -23,4 +23,4 @@ const actions = [
 
 
 
-module.exports = { actions }
+module.exports = { questions }
