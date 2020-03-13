@@ -19,9 +19,9 @@ Below is the database schema containing all tables and a demo using Node CLI:
 ![Database Schema](db/schema.png)
 ![Demo](https://media.giphy.com/media/ZcWuBndrDJ0fB312wQ/giphy.gif)
 
-```
+
 ## Dependencies
 * MySQL
-*Inquirer
-*console.table
+* Inquirer
+* console.table
  
